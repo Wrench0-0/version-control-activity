@@ -1,3 +1,2 @@
 "initial file" 
 "Full Name: Sean Daep" 
-"BS Computer Science Student enjoying coding and programming"
